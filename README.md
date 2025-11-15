@@ -11,7 +11,7 @@ code
 
 ## Aritecture
 ## Table of Content
-![Project Architecture](images/Model_01.png)
+![Project Architecture](Model_01.png)
 
 ## Architecture
 ![Model Flow](images/model-flow.png)
