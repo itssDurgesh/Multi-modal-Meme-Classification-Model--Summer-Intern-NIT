@@ -6,8 +6,7 @@ circulated on the internet
 Tech & frameworks Used :- Py-torch , Transfomers, XLM Roberta, CLIP, Attention.
 
 ## Table of content
-iamge
-code
+![Model Architecture](MODEL_01.png)
 ## Table of Content
 
 ## Architecture
