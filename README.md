@@ -3,10 +3,10 @@
 Developed a state-of-the-art multi-modal deep learning model that classifies sentiment from internet memes by jointly analyzing textual and visual content.
 
 ## Tech Stack
-- **Framework**: PyTorch
+- **Framework**: Python, PyTorch
 - **Transformers**: XLM-RoBERTa, CLIP
 - **Attention**: Multi-Head Attention
-- **Libraries**: Transformers, OpenCV
+- **Libraries**: Transformers, Deep learning Libraries
 
 ## Table of Contents
 - [Architecture](#architecture)
