@@ -1,4 +1,4 @@
-# Multi-Modal Meme Classification Model | Summer Internship @ NIT
+# Multi-Modal Meme Classification Model | Summer Internship @ NIT ALLAHABAD
 
 Developed a state-of-the-art multi-modal deep learning model that classifies sentiment from internet memes by jointly analyzing textual and visual content.
 
@@ -15,10 +15,7 @@ Developed a state-of-the-art multi-modal deep learning model that classifies sen
 ---
 
 ## Architecture
-
-&lt;div align="center"&gt;
-  &lt;img src="MODEL_01.png" alt="Model Architecture" style="background-color: white; padding: 15px; border-radius: 8px; max-width: 100%;"&gt;
-&lt;/div&gt;
+![Architecture](MODEL_01.png)
 
 ### Methodology
 1. **Feature Extraction**:
@@ -35,9 +32,7 @@ Developed a state-of-the-art multi-modal deep learning model that classifies sen
 
 ## Results
 
-&lt;div align="center"&gt;
-  &lt;img src="Screenshot%202025-11-16%20013649.png" alt="Results Visualization" style="background-color: white; padding: 10px; border-radius: 6px; max-width: 100%;"&gt;
-&lt;/div&gt;
+![Results Visualization](Screenshot%202025-11-16%20013649.png)
 
 ### Performance Metrics
 | Metric | Score |
