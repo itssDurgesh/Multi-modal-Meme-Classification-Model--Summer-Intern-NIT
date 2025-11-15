@@ -11,7 +11,7 @@ code
 ## Table of Content
 
 ## Architecture
-!Model_01.png
+![Model Architecture](https://raw.githubusercontent.com/your-username/your-repo/main/Model_01.png)
 
 I have fine-tuned the roberta and clip individually
 obtained the 768 text features from roberta
