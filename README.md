@@ -10,6 +10,11 @@ iamge
 code
 
 ## Aritecture
+## Table of Content
+![Project Architecture](images/Model_01.png)
+
+## Architecture
+![Model Flow](images/model-flow.png)
 I have fine-tuned the roberta and clip individually
 obtained the 768 text features from roberta
 obtained 512 text and 512 image features from CLIP
